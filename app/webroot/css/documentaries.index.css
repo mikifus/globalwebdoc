@@ -1,0 +1,11 @@
+.documentary_list { padding: 10px; }
+	.documentary_list .element { margin: 10px 0; border-top: 1px solid black; }
+	.documentary_list .element:first-child { border-top: 0; }
+		.documentary_list .element .img { width: 100px; height: 100px; float: left; }
+		.documentary_list .element .text { margin-left: 110px; }
+		.documentary_list .element .titles { }
+			.documentary_list .element .titles .title { font-size: 25px; }
+			.documentary_list .element .titles .title2 { font-size: 18px; font-weight: bold; }
+		.documentary_list .element .language_list { margin-top: 5px; }
+
+.hidden {display: none;}

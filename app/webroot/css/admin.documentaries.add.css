@@ -1,0 +1,14 @@
+.description_area {
+	width: 500px;
+	height: 160px;
+}
+.wysywig{
+	margin: 10px 0;
+}
+.image {
+	margin: 10px;
+}
+	.image .img{
+		width: 100px;
+		height: 100px;
+	}

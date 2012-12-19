@@ -1,0 +1,43 @@
+[04-Oct-2012 17:44:34 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/mikifus/domains/globalwebdoc.com/app/Controller/AppController.php on line 37
+[04-Oct-2012 17:44:36 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/mikifus/domains/globalwebdoc.com/app/Controller/AppController.php on line 37
+[04-Oct-2012 18:18:45 UTC] PHP Fatal error:  Call to a member function allow() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/Controller/UsersController.php on line 8
+[04-Oct-2012 18:22:30 UTC] PHP Fatal error:  Call to a member function flash() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/View/Users/login.ctp on line 7
+[04-Oct-2012 18:22:59 UTC] PHP Fatal error:  Call to a member function flash() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/View/Users/login.ctp on line 7
+[04-Oct-2012 18:23:02 UTC] PHP Fatal error:  Call to a member function flash() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/View/Users/login.ctp on line 7
+[04-Oct-2012 18:24:00 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/View/Users/login.ctp on line 16
+[04-Oct-2012 18:24:10 UTC] PHP Fatal error:  Call to a member function create() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/View/Users/login.ctp on line 16
+[04-Oct-2012 19:04:22 UTC] PHP Fatal error:  Call to a member function getSessionInfo() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/Controller/AppController.php on line 50
+[04-Oct-2012 19:04:22 UTC] PHP Fatal error:  Call to a member function getSessionInfo() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/Controller/AppController.php on line 50
+[04-Oct-2012 19:04:39 UTC] PHP Fatal error:  Class 'AppController' not found in /home/mikifus/domains/globalwebdoc.com/app/Controller/PagesController.php on line 32
+[04-Oct-2012 19:06:54 UTC] PHP Warning:  include(/home/mikifus/domains/globalwebdoc.com/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mikifus/domains/globalwebdoc.com/lib/Cake/Core/Configure.php on line 76
+[04-Oct-2012 19:06:54 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/mikifus/domains/globalwebdoc.com/app/Config/core.php' for inclusion (include_path='/home/mikifus/domains/globalwebdoc.com/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/mikifus/domains/globalwebdoc.com/lib/Cake/Core/Configure.php on line 76
+[04-Oct-2012 19:06:54 UTC] PHP Fatal error:  Can't find application core file. Please create /home/mikifus/domains/globalwebdoc.com/app/Config/core.php, and make sure it is readable by PHP. in /home/mikifus/domains/globalwebdoc.com/lib/Cake/Core/Configure.php on line 77
+[04-Oct-2012 21:08:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:08:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:08:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:08:50 UTC] PHP Fatal error:  Call to a member function body() on a non-object in /home/mikifus/domains/globalwebdoc.com/lib/Cake/Controller/Controller.php on line 957
+[04-Oct-2012 21:08:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:08:52 UTC] PHP Fatal error:  Call to a member function body() on a non-object in /home/mikifus/domains/globalwebdoc.com/lib/Cake/Controller/Controller.php on line 957
+[04-Oct-2012 21:08:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:08:56 UTC] PHP Fatal error:  Call to a member function body() on a non-object in /home/mikifus/domains/globalwebdoc.com/lib/Cake/Controller/Controller.php on line 957
+[04-Oct-2012 21:09:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:09:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:09:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/view.ctp on line 50
+[04-Oct-2012 21:09:09 UTC] PHP Fatal error:  Call to a member function body() on a non-object in /home/mikifus/domains/globalwebdoc.com/lib/Cake/Controller/Controller.php on line 957
+[04-Oct-2012 21:21:57 UTC] PHP Fatal error:  Call to undefined method View::link() in /home/mikifus/domains/globalwebdoc.com/app/View/Layouts/default.ctp on line 63
+[04-Oct-2012 21:21:57 UTC] PHP Fatal error:  Call to undefined method View::link() in /home/mikifus/domains/globalwebdoc.com/app/View/Layouts/default.ctp on line 63
+[05-Oct-2012 14:27:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 14:27:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/index.ctp on line 32
+[05-Oct-2012 15:25:37 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/mikifus/domains/globalwebdoc.com/app/Controller/DocumentariesController.php on line 77
+[05-Oct-2012 15:45:13 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ')' in /home/mikifus/domains/globalwebdoc.com/app/Controller/DocumentariesController.php on line 92
+[05-Oct-2012 16:04:20 UTC] PHP Fatal error:  Call to a member function findAllByDocumentaryId() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/Controller/DocumentariesController.php on line 139
+[05-Oct-2012 16:14:23 UTC] PHP Fatal error:  Call to a member function uploadFile() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/Controller/DocumentariesController.php on line 124
+[05-Oct-2012 16:20:31 UTC] PHP Fatal error:  Call to a member function input() on a non-object in /home/mikifus/domains/globalwebdoc.com/app/View/Documentaries/admin_add.ctp on line 45

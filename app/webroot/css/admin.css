@@ -1,0 +1,128 @@
+.admin_div {
+	padding: 10px;
+	margin-top: 10px;
+}
+	.admin_div .input {
+		float: left;
+		clear: left;
+		padding: 5px;
+		margin-right: 10px;
+		font-size: 12px;
+		width: 150px;
+	}
+	.admin_div .input.checkbox {
+		float: left;
+		clear: left;
+		padding: 5px;
+		margin-right: 10px;
+		font-size: 12px;
+		width: 50px;
+		text-align: center;
+	}
+	.admin_div .input_div {
+		float: left;
+		clear: right;
+		font-size: 12px;
+	}
+		.admin_div .input_div input {
+			width: 300px;
+		}
+	.admin_div .error{
+		background: #FF8585;
+		font-weight: bold;
+		font-size: 13px;
+		padding: 5px;
+		margin: 5px;
+	}
+    .admin_div .question_div {
+        background: #CCC;
+        height: 30px;
+        padding-top: 5px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .admin_div .input_question_div {
+        float: left;
+		clear: right;
+		font-size: 12px;
+    }
+        .admin_div .input_question_div input {
+            width: 550px;
+        }
+
+        .admin_div .input_question_div img {
+            width: 24px;
+            float: right;
+            margin-left: 8px;
+            cursor: pointer;
+        }
+
+    .admin_div .answers_div_left {
+        float: left;
+        width: 161px;
+        height: 210px;
+        padding: 5px;
+    }
+    .admin_div .answers_div_right_correct {
+        float: left;
+        background-color: #6E6;
+        width: 587px;
+        padding: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        margin-bottom: 5px;
+    }
+        .admin_div .answers_div_right_correct input {
+            width: 400px;
+        }
+
+        .admin_div .answers_div_right_correct img {
+            width: 24px;
+        }
+
+    .admin_div .answers_div_right {
+        float: left;
+        width: 587px;
+        padding: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        margin-bottom: 5px;
+    }
+        .admin_div .answers_div_right input {
+            width: 400px;
+        }
+
+        .admin_div .answers_div_right img {
+            width: 24px;
+        }
+
+    .admin_div .add_question_button {
+        float: left;
+        margin-right: 10px;
+    }
+
+    .admin_div #survey img {
+        max-width: 300px;
+        max-height: 100px;
+    }
+
+.scaffold_table {
+	border: 1px solid black;
+	width: 100%;
+}
+	.scaffold_table th {
+		font-size: 13px;
+		background: black;
+		color: white;
+		text-align: center;
+		padding: 3px 5px;
+	}
+	.scaffold_table tr:nth-child(even) {background-color: #FFF}
+	.scaffold_table tr:nth-child(odd) {background-color: #DEDEDE}
+	.scaffold_table td {
+		padding: 3px 5px;
+	}
+
+.admin_bottom_menu {
+	margin: 20px 0 0 10px;
+}

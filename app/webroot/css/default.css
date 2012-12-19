@@ -1,0 +1,102 @@
+@charset "utf-8";
+/**
+ *
+ * Generic CSS for CakePHP
+ *
+ * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
+ * Copyright 2005-2012, Cake Software Foundation, Inc. (http://cakefoundation.org)
+ *
+ * Licensed under The MIT License
+ * Redistributions of files must retain the above copyright notice.
+ *
+ * @copyright     Copyright 2005-2012, Cake Software Foundation, Inc. (http://cakefoundation.org)
+ * @link          http://cakephp.org CakePHP(tm) Project
+ * @package       app.webroot.css
+ * @since         CakePHP(tm)
+ * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
+ */
+
+* {
+	margin:0;
+	padding:0;
+}
+
+/* ### Global ###*/
+body {
+	background: white;
+	color: black;
+	font-family:'lucida grande',verdana,helvetica,arial,sans-serif;
+	font-size:12px;
+	margin: 0;
+	text-align: center;
+	clear: both;
+}
+a {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+
+#container{
+	margin: auto;
+	width: 900px;
+	border-top: 8px solid black;
+	margin-top: 2px;
+	text-align: left;
+}
+
+.left_colum {
+	width: 150px;
+	float: left;
+	padding-right: 20px;
+}
+	.left_colum .title {
+		border-bottom: 8px solid black;
+		font-size: 38px;
+		line-height: 40px;
+		text-transform: uppercase;
+		font-weight: bold;
+	}
+		.left_colum .title a {
+			color: black;
+		}
+	.left_colum .text {
+
+	}
+	
+.content_column {
+	clear: right;
+	width: 725px;
+	padding: 5px;
+	margin-left: 170px;
+}
+.footer {
+	clear: both;
+}
+
+/* ### Global elements ###*/
+.language_list {
+	
+}
+	.language_list .lang {
+		
+	}
+
+/* ### ETC ###*/
+.clearer{ clear: both; }
+.bold { font-weight: bold; }
+.text_center{ text-align: center; }
+.text_left{ text-align: left; }
+.background_image_link {
+	background-size: auto 100% !important;
+	-moz-background-size: auto 100 !important;
+	-webkit-background-size: auto 100% !important;
+	-khtml-background-size: auto 100% !important;
+	background-position: center center !important;
+	background-repeat: no-repeat !important;
+}
+/* ### Map hack ### */
+.olControlAttribution .olControlNoSelect {
+	bottom: 0.5em;
+}
